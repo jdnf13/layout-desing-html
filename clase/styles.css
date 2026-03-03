@@ -1,0 +1,29 @@
+            .title {
+                color: red;
+                background-color: rgba(189, 188, 186, 0.281);
+                font-size: 30px;
+                font-weight: bold;
+     
+                width: 90%;
+                padding: 20px;
+                border-radius: 10px;
+                margin: 10px;
+
+                align-items: center;
+
+            }
+
+            .container {
+                background-color: rgb(121, 128, 130);
+                display: flex;
+                gap: 60px;
+            }
+
+            .children {
+                color: white;
+                font-size: 45px;
+                border: 2px solid black;
+                width: 100px;
+                height: 100px;
+                padding: 40px;
+            }
